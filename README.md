@@ -31,7 +31,7 @@
 ---
 ## **Subir cambios**
 1. El ejercicio es el siguiente:
-![](https://github.com/Artur2719/automatas/blob/jose_arturo/src/img/exercise.png?raw=true)
+![](https://github.com/Artur2719/automatas/blob/jose_arturo/src/img/activity.png?raw=true)
 
 2. Una vez que hayamos finalizado el ejercicio, subiremos los cambios con los siguientes comandos
     - git add .
