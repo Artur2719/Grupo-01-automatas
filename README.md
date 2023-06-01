@@ -23,17 +23,15 @@
 ## **Crear la rama**
 
 1. Nos dirigiremos a la ruta del proyecto, para llegar ingresaremos dentro de la terminal la instrucción **cd <"nombre del repositorio">**
-
-![](https://github.com/Artur2719/automatas/blob/jose_arturo/src/img/cloneProject.png?raw=true)
-
 2. Una ves dentro ingresaremos el comando git checkout -b "nombre de tu rama"(aqui va su nombre)
 3. Listo, deberia verse algo como esto
-![](https://github.com/Artur2719/automatas/blob/jose_arturo/src/img/cloneProject.png?raw=true)
+![](https://github.com/Artur2719/automatas/blob/jose_arturo/src/img/createBranch.png?raw=true)
+
 
 ---
 ## **Subir cambios**
 1. El ejercicio es el siguiente:
-![](https://github.com/Artur2719/automatas/blob/jose_arturo/src/img/cloneProject.png?raw=true)
+![](https://github.com/Artur2719/automatas/blob/jose_arturo/src/img/exercise.png?raw=true)
 
 2. Una vez que hayamos finalizado el ejercicio, subiremos los cambios con los siguientes comandos
     - git add .
@@ -41,4 +39,5 @@
     - git push
 
 3. Deberia de verse algo asi
-![](https://github.com/Artur2719/automatas/blob/jose_arturo/src/img/cloneProject.png?raw=true)
+![](https://github.com/Artur2719/automatas/blob/jose_arturo/src/img/pushChange.png?raw=true)
+
